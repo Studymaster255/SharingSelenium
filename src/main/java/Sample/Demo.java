@@ -6,6 +6,7 @@ public class Demo {
 		System.out.println("line by study");
 		System.out.println("line by from gui");
 		System.out.println("line added from eclipse");
+		System.out.println("line from GUI 2");
 	}
 
 }
