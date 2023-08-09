@@ -9,6 +9,7 @@ public class Demo {
 		System.out.println("line from GUI 2");
 		System.out.println("line added from eclipse");
 		System.out.println("line added from eclipse");
+		System.out.println("line added from eclipse from asus");
 	}
 
 }
